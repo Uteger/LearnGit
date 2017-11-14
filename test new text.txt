@@ -1,0 +1,2 @@
+this is a test. I made a new file in windows, then opened through git bash.
+Now I'm editing in atom. About to commit.
